@@ -1,6 +1,7 @@
 # Akbank-Derin-Ogrenme-Bootcamp
 
 Ceren Düzgün
+https://www.kaggle.com/code/mercaneskcolu/hurricane-damage-classification
 
 Proje dosyasında istenilen tüm şartlar sağlanmıştır. Kaggle ve Google Colab yetersiz kaldığından dolayı eğitimde birkaç defa yarıda kesilmiştir. Tensorboard ve Gradcam ayrı olarak çalıştırıldı. Sonuçlar kaggle sayfasında başarıyla kaydedilmişti. Eğitim hala devam etmektedir. Ancak haftalık kotamızda dolmak üzere. Bilginize Sunarız
 

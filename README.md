@@ -35,7 +35,9 @@ Parametre uzayı tanımlanarak Random Search ile denemeler Callback’ler: Tenso
 
 Son konvolüsyon katmanını bulan yardımcı fonksiyon ile Grad-CAM Görsellerin üzerine ısı haritaları bindirilerek /kaggle/working/gradcam* klasörlerine kaydedildi 
 
-## Değerlendirme Test seti üzerinde classification report (precision, recall, f1-score) Confusion Matrix (ham ve normalize edilmiş halleri) Hata profilleri sınıf bazında analiz edildi
+## Değerlendirme 
+
+Test seti üzerinde classification report (precision, recall, f1-score) Confusion Matrix (ham ve normalize edilmiş halleri) Hata profilleri sınıf bazında analiz edildi
 
 # 📊 Sonuçlar
 
